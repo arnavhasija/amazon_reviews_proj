@@ -1,6 +1,6 @@
 # amazon_reviews_proj
 
-- To test our hypothesis, EDA was performed on the full dataset to understand what factors contribute to helpfulness of reviews.
+- EDA was performed on the full dataset to understand what factors contribute to helpfulness of reviews.
 -	First finding was that while the fraction of verified reviews since 2008 increased by 58%, the helpfulness of the reviews has decreased significantly by 50% in these 10 years.
 
 -	First factor that was considered was how number of reviews and word count per review has changed over the years.
