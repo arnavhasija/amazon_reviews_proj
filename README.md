@@ -9,12 +9,15 @@ COVID-19 pandemic has caused a massive shift in consumer behavior and an extraor
 Due to this shift, customer reviews on eCommerce websites have significantly increased over the last few years.
 Based on a survey conducted in the US on on customer attitudes towards online shopping in 2021, 48% of the participants indicated that they find customer reviews on the internet very helpful. Customer reviews can therefore play an important role in influencing purchase decision of users.
 
+![](/images/attitudes-towards-online-shopping-in-the-us-2021.png)
+
 In this project, I worked with a dataset of around 3 million reviews from Amazon.com across three different product categories to analyze the reviews text data and determine how a review's extremity, length, or sentiment affect its perceived helpfulness. 
 
 <b> Process and Initial Findings </b>
 
-- EDA was performed on the full dataset to understand what factors contribute to helpfulness of reviews.
--	First finding was that while the fraction of verified reviews since 2008 increased by 58%, the helpfulness of the reviews decreased significantly by 50% in these 10 years.
+EDA was performed on the full dataset to understand what factors contribute to helpfulness of reviews. First finding was that while the fraction of verified reviews since 2008 increased by 58%, the helpfulness of the reviews decreased significantly by 50% in these 10 years.
+
+![](/images/attitudes-towards-online-shopping-in-the-us-2021.png)
 
 -	First factor that was considered was how number of reviews and word count per review has changed over the years.
 -	Home and kitchen products started making up more than 50% of the total reviews since 2010 while book reviews have recently only been a small fraction of the total reviews. 
